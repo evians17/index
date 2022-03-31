@@ -1,0 +1,27 @@
+*{
+box-sizing: border-box;
+background-color:#dbcd051a;
+}
+.menu{
+    float: left;
+    width: 20%;
+}
+.menuitem{
+    padding: 8px;
+    margin-top: 7px;
+    border-bottom: 1px solid #dbcd051a;
+}
+.main{
+    float: left;
+    width: 60%;
+    padding: 0 20px;
+    overflow:hidden;
+}
+.rigth{
+    background-color: rgba(255, 232, 27, 0.753);
+    float: left;
+    width: 20%;
+    padding: 10px 15px;
+    margin-top: 7px;
+
+}
